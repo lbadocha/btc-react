@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f1af23f17794ce0eafadd770e1b41e5",
+    "revision": "f448716bb7de41d98e0c84c31602f0ea",
     "url": "/btc-react/index.html"
   },
   {
-    "revision": "0b0eb7d21c734b95fc5e",
-    "url": "/btc-react/static/css/main.fa17b4a0.chunk.css"
+    "revision": "4518ba66276eeb1d1063",
+    "url": "/btc-react/static/css/main.5bd54a9a.chunk.css"
   },
   {
     "revision": "d53a0baae8b3db97334a",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/btc-react/static/js/2.a8f63be2.chunk.js.LICENSE"
   },
   {
-    "revision": "0b0eb7d21c734b95fc5e",
+    "revision": "4518ba66276eeb1d1063",
     "url": "/btc-react/static/js/main.0063a014.chunk.js"
   },
   {

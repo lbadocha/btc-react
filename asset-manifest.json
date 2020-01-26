@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/btc-react/static/css/main.fa17b4a0.chunk.css",
+    "main.css": "/btc-react/static/css/main.5bd54a9a.chunk.css",
     "main.js": "/btc-react/static/js/main.0063a014.chunk.js",
     "main.js.map": "/btc-react/static/js/main.0063a014.chunk.js.map",
     "runtime-main.js": "/btc-react/static/js/runtime-main.adf494f8.js",
@@ -8,15 +8,15 @@
     "static/js/2.a8f63be2.chunk.js": "/btc-react/static/js/2.a8f63be2.chunk.js",
     "static/js/2.a8f63be2.chunk.js.map": "/btc-react/static/js/2.a8f63be2.chunk.js.map",
     "index.html": "/btc-react/index.html",
-    "precache-manifest.c0bb3557c24782f953a43c805061a542.js": "/btc-react/precache-manifest.c0bb3557c24782f953a43c805061a542.js",
+    "precache-manifest.d8862267c31ca3e8783973d08d78b52c.js": "/btc-react/precache-manifest.d8862267c31ca3e8783973d08d78b52c.js",
     "service-worker.js": "/btc-react/service-worker.js",
-    "static/css/main.fa17b4a0.chunk.css.map": "/btc-react/static/css/main.fa17b4a0.chunk.css.map",
+    "static/css/main.5bd54a9a.chunk.css.map": "/btc-react/static/css/main.5bd54a9a.chunk.css.map",
     "static/js/2.a8f63be2.chunk.js.LICENSE": "/btc-react/static/js/2.a8f63be2.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.adf494f8.js",
     "static/js/2.a8f63be2.chunk.js",
-    "static/css/main.fa17b4a0.chunk.css",
+    "static/css/main.5bd54a9a.chunk.css",
     "static/js/main.0063a014.chunk.js"
   ]
 }
